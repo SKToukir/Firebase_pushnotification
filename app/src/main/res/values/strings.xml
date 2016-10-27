@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidPushNotification</string>
+    <string name="FCM_PRF">appforblind.best.apptech.androidpushnotification.fcm_pref</string>
+    <string name="FCM_TOKEN">appforblind.best.apptech.androidpushnotification.fcm_token</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "185243063025",
+    "firebase_url": "https://pushnotitest-fb058.firebaseio.com",
+    "project_id": "pushnotitest-fb058",
+    "storage_bucket": "pushnotitest-fb058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185243063025:android:99201f7c547d6910",
+        "android_client_info": {
+          "package_name": "appforblind.best.apptech.androidpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185243063025-uls97k4vhiotk4nb14el5q1ojl7u9tid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJyiFrM2a5IT3j9wYiIpWWoFqAW0oXR88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
